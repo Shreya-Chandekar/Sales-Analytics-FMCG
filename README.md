@@ -11,8 +11,8 @@ This project involves analyzing FMCG sales data to help businesses track custome
 **Sales Metrics**: Customer Sales, Market vs. Target Analysis  
 
 📊 **Reports Developed**  
-1. [**Customer Performance Report**] (./Customer Performance Report.pdf) – Analyzes net sales of customers across different years.  
-2. [**Market Performance vs. Target Report**] (https://github.com/Shreya-Chandekar/Sales-Analytics-FMCG/blob/main/Market%20Performance%20vs.%20Target%20Report.pdf) – Compares market sales with business targets.  
+1. [**Customer Performance Report**] (Customer Performance Report.pdf) – Analyzes net sales of customers across different years.  
+2. [**Market Performance vs. Target Report**] (Market Performance vs. Target Report.pdf) – Compares market sales with business targets.  
 
 🚀 **Key Takeaways**  
 ✔ Improved sales decision-making with data insights  
