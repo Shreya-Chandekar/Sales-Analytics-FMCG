@@ -11,7 +11,7 @@ This project involves analyzing FMCG sales data to help businesses track custome
 **Sales Metrics**: Customer Sales, Market vs. Target Analysis  
 
 **Reports Developed**  
-1. **Customer Performance Report** – Analyzes net sales of customers across different years.  
+1. **Customer Performance Report** (Customer Performance Report.pdf) – Analyzes net sales of customers across different years.  
 2. **Market Performance vs. Target Report** – Compares market sales with business targets.  
 
 **Key Takeaways**  
