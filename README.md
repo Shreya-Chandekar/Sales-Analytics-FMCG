@@ -2,7 +2,7 @@
 Sales Analytics (FMCG) Using Advance Excel
 
 📌 **Project Overview**  
-This project involves analyzing FMCG sales data to help businesses track customer performance and market trends. By leveraging Excel Pivot Tables, Power Query, and DAX, I developed two reports that enable stakeholders to optimize their sales strategies, set competitive targets, and identify business expansion opportunities.
+This project involves analyzing AtliQ Hardware sales data to help businesses track customer performance and market trends. By leveraging Excel Pivot Tables, Power Query, and DAX, I developed two reports that enable stakeholders to optimize their sales strategies, set competitive targets, and identify business expansion opportunities.
 
 🛠️ **Technologies & Tools Used**  
 **Excel**: Pivot Tables, Power Query, Conditional Formatting  
